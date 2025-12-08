@@ -7,6 +7,8 @@
 1-left
 2-right
 3-del
+4-leaf
+5-root
 *.exe
 a.out
 
@@ -24,3 +26,6 @@ binary_trees_print.h
 # Éventuels fichiers d’éditeur
 .vscode/
 *.swp
+
+# Ignore main files
+*-main.c
