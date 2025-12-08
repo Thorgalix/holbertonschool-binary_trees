@@ -5,7 +5,7 @@
 # Exécutables
 0-node
 1-left
-2-node
+2-right
 *.exe
 a.out
 
