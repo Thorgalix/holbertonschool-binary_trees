@@ -1,0 +1,25 @@
+# Fichiers générés par gcc
+*.o
+*.out
+
+# Exécutables
+0-node
+1-node
+2-node
+*.exe
+a.out
+
+# Fichiers de test
+*.gcda
+*.gcno
+*.gcov
+
+# Fichier d'affichage fourni par Holberton
+binary_tree_print.c
+binary_tree_print.h
+binary_trees_print.c
+binary_trees_print.h
+
+# Éventuels fichiers d’éditeur
+.vscode/
+*.swp
